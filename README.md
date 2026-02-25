@@ -171,37 +171,6 @@ Raw Parquet (8M rows)
 
 ---
 
-## 📁 Repository Structure
-
-```
-mars-meda-pressure-forecasting/
-│
-├── mars-environmental-dynamics-analyser.ipynb   ← Full notebook
-├── README.md                                     ← You are here
-└── requirements.txt                              ← Dependencies
-```
-
----
-
-## ⚙️ How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/mars-meda-pressure-forecasting
-cd mars-meda-pressure-forecasting
-
-# 2. Install dependencies
-pip install polars xgboost pandas numpy scikit-learn
-
-# 3. Download dataset from Kaggle and place in:
-#    /kaggle/input/competitions/mars-environmental-dynamics-analyzer-meda-virtual-sensor-recovery/
-
-# 4. Open the notebook
-jupyter notebook mars-environmental-dynamics-analyser.ipynb
-```
-
----
-
 ## 🔭 Real-World Relevance
 
 This project has direct parallels to challenges in **commercial space operations**:
@@ -215,7 +184,7 @@ This project has direct parallels to challenges in **commercial space operations
 ## 👩‍💻 Author
 
 **Mubeena Hussain**  
-MSc Statistics — University of Kerala  
+MSc Statistics 
 📧 mubeenahussain1205@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/mubeena-hussain-a357b920b)  
 

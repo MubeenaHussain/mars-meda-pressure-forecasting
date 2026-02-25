@@ -21,7 +21,7 @@ This was built for the **Kaggle MEDA Virtual Sensor Recovery Competition**, work
 
 ---
 
-## 🧠 The Problem in Plain English
+## 🧠 The Problem 
 
 Imagine a weather station on Mars that records dozens of sensor readings every second. One day, the pressure sensor goes blank — but all the other sensors (temperature, rover status, solar time, etc.) keep working fine. 
 
